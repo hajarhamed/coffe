@@ -1,0 +1,174 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    background-color: rgb(100, 105, 105);
+}
+ .navbar{
+    background-color: black;
+    margin-bottom: 35px;
+    padding: 25px;
+ }
+ .navbar ul{
+    list-style: none;
+ }
+ .navbar ul li{
+    display: inline-block;
+ }
+ .navbar ul li a{
+    color: rgb(222, 233, 212);
+    margin-right: 20px;
+    text-decoration: none;
+
+ }
+
+  .image{
+    height: 38vh;
+    background: url(../images/1.jpg);
+    background-repeat: no-repeat;
+    background-size:85% ;
+    padding-top: 15px;
+    border-radius:57px
+  } 
+ 
+   .products h3{
+    text-align: center;
+    padding: 22px;
+   }
+
+  .bhy .pro1{
+    width: 200px;
+    height: 200px;
+    background-color: black;
+    text-align: center;
+    border-radius: 8px; 
+    margin-left: 20px;
+    
+  }
+
+  .bhy .pro1  h4{
+    color: aliceblue;
+    padding: 7px;
+  }
+
+  .bhy .pro1  img{
+    width: 150px;
+    height: 100px
+  }
+  .bhy .pro1  span{
+    color: aliceblue;
+    display: block;
+    padding: 10px;
+    font-size: smaller;
+  }
+  .bhy .pro1 a{
+    color:#444;
+    text-decoration: none;
+    background-color: aliceblue;
+    padding: 5px 3px;
+    border-radius: 4px;
+  }
+  
+    
+
+  .bhy .pro2{
+    width: 200px;
+    height: 200px;
+    background-color: black;
+    text-align: center;
+    border-radius: 8px; 
+    margin-left: 25%;
+    margin-top: 10px;
+  }
+
+  .bhy .pro2 h4{
+    color: aliceblue;
+    padding: 7px;
+  }
+
+  .bhy .pro2 img{
+    width: 150px;
+    height: 100px
+  }
+  .bhy .pro2  span{
+    color: aliceblue;
+    display: block;
+    padding: 10px;
+    font-size: smaller;
+  }
+  .bhy .pro2 a{
+    color:#444;
+    text-decoration: none;
+    background-color: aliceblue;
+    padding: 5px 3px;
+    border-radius: 4px;
+  }
+  
+    
+
+  .bhy .pro3{
+    width: 200px;
+    height: 200px;
+    background-color: black;
+    text-align: center;
+    border-radius: 8px; 
+    margin-left: 50%;
+    margin-top: 10px;
+  }
+
+  .bhy .pro3  h4{
+    color: aliceblue;
+    padding: 7px;
+  }
+
+  .bhy .pro3  img{
+    width: 150px;
+    height: 100px
+  }
+  .bhy .pro3  span{
+    color: aliceblue;
+    display: block;
+    padding: 10px;
+    font-size: smaller;
+  }
+    .bhy .pro3 a{
+    color:#444;
+    text-decoration: none;
+    background-color: aliceblue;
+    padding: 5px 3px;
+    border-radius: 4px;
+  }
+
+    .bhy .pro4{
+    width: 200px;
+    height: 200px;
+    background-color: black;
+    text-align: center;
+    border-radius: 8px; 
+    margin-left: 80%;
+    margin-top: 10px;
+  }
+
+  .bhy .pro4  h4{
+    color: aliceblue;
+    padding: 6px;
+  }
+
+  .bhy .pro4  img{
+    width: 150px;
+    height: 100px
+  }
+  .bhy .pro4  span{
+    color: aliceblue;
+    display: block;
+    padding: 10px;
+    font-size: smaller;
+  }
+  .bhy .pro4 a{
+    color:#444;
+    text-decoration: none;
+    background-color: aliceblue;
+    padding: 4px 3px;
+    border-radius: 4px;
+  }
